@@ -18,7 +18,7 @@ I turn complex AI ideas into **robust, real-world products**.
 # 🌐 Connect With Me
 💼 LinkedIn → https://www.linkedin.com/in/jagathcharan2004/  
 📧 Email → jagathcharan2004@gmail.com  
-🧑‍💻 Portfolio → https://github.com/jagathcharan
+🧑‍💻 Portfolio → https://jagathcharan.github.io/portfolio/
 
 ---
 
